@@ -1,0 +1,172 @@
+<heml>
+  <head>
+    <subject>Email Rox!</subject>
+    <style>
+
+        * {
+            font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+        }
+        
+        .header-panel {
+            background-color: #F5F5F5;
+            padding: 1px 0;
+        }
+
+        h5 {
+            font-weight: 600;
+            font-size: 13px;
+            line-height: 1.846;
+            margin: 0;
+            text-transform: uppercase;
+        }
+
+        .title {
+            margin: 35px 0;
+            text-transform: uppercase;
+            font-size: 18px;
+            line-height: 1.333333;
+            text-align: center;
+            letter-spacing: 2px;
+        }
+
+        p {
+            margin: 9px 0 14px;
+            font-size: 12px;
+            line-height: 1.166666666666667;
+        }
+        
+        h2 {
+            text-transform: uppercase;
+            font-size: 13px;
+            line-height: 1.07;
+            margin: 0 0 36px;
+            padding: 17px 5px;
+            border-top: 1px solid #DADAD2;
+            border-bottom: 1px solid #DADAD2;
+        }
+
+        h3 {
+            font-size: 13px;
+            line-height: 1.07;
+            margin: 0 0 2px;
+        }
+
+        .prod-text {
+            margin: 0;
+            color: #D1D1D1;
+        }
+
+        .footer {
+            padding: 24px 0;
+            color: #000000;
+            background-color: #F5F5F5;
+            margin-bottom: 66px;
+        }
+
+        .footer-content {
+            text-align: center;
+        }
+
+        .footer-content a {
+            color: #000000;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+    </style>
+  </head>
+  <body>
+    <div class="header-panel">
+        <container>
+            <row>
+                <column style="vertical-align:middle; width: 145px !important;">
+                    <img src="https://i.ibb.co/SmhSVD1/logo.jpg" alt="logotype">
+                </column>
+                <column style="vertical-align:middle; text-align: right;">
+                    <h5>
+                        LIFESTYLE ACCESSORIES WITH A DOWN TO EARTH
+                    </h5>
+                </column>
+            </row>
+        </container>
+    </div>
+    <container>
+        <row>
+            <column>
+                <h1 class="title">ONE BAG, 2PACK, THREE WAYS.</h1>
+            </column>
+        </row>
+        <row style="margin-bottom: 10px;">
+            <column>
+                <img src="https://i.ibb.co/56FnfSk/top-banner.jpg" width="100%" style="height: 241px;" alt="banner">
+            </column>
+        </row>
+        <row style="margin-bottom: 55px;">
+            <column style="padding-right: 5px;">
+                <img src="https://i.ibb.co/kgnW69V/small1.jpg" style="height: 228px;" width="100%" alt="small1">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium nostrum recusandae voluptatibus quasi maiores aliquid hic corrupti mollitia expedita explicabo a dignissimos nam ab ad sapiente harum eos autem, quidem perspiciatis fugit! Ipsum quae minima illo vel at perspiciatis nesciunt?</p>
+                <a href="/" style="display: inline-block;">
+                    <img src="https://i.ibb.co/GnY4VPW/btn-shop.jpg" width="161" alt="btn-shop">
+                </a>
+            </column>
+            <column style="padding-left: 5px;">
+                <img src="https://i.ibb.co/PDWRkL2/small2.jpg" style="height: 228px;" width="100%" alt="small2">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium nostrum recusandae voluptatibus quasi maiores aliquid hic corrupti mollitia expedita explicabo a dignissimos nam ab ad sapiente harum eos autem, quidem perspiciatis fugit! Ipsum quae minima illo vel at perspiciatis nesciunt?</p>
+                <a href="/" style="display: inline-block;">
+                    <img src="https://i.ibb.co/GnY4VPW/btn-shop.jpg" width="161" alt="btn-shop">
+                </a>
+            </column>
+        </row>
+        <row>
+            <column>
+                <h2>IPHONE CASES</h2>
+            </column>
+        </row>
+        <row style="margin-right: -18px; margin-bottom: 44px;">
+            <column style="padding-right: 18px;">
+                <img src="https://i.ibb.co/2Zp3jCG/prod.jpg" width="100%" style="margin-bottom: 15px;" alt="prod">
+                <h3>SPORT IPHONE 5 CASE</h3>
+                <p class="prod-text">HERITAGE</p>
+            </column>
+            <column style="padding-right: 18px;">
+                <img src="https://i.ibb.co/2Zp3jCG/prod.jpg" width="100%" style="margin-bottom: 15px;" alt="prod">
+                <h3>SPORT IPHONE 5 CASE</h3>
+                <p class="prod-text">HERITAGE</p>
+            </column>
+            <column style="padding-right: 18px;">
+                <img src="https://i.ibb.co/2Zp3jCG/prod.jpg" width="100%" style="margin-bottom: 15px;" alt="prod">
+                <h3>SPORT IPHONE 5 CASE</h3>
+                <p class="prod-text">HERITAGE</p>
+            </column>
+        </row>
+        <row style="margin-bottom: 44px;">
+            <column style="text-align: center;">
+                <a href="/" style="display: inline-block;">
+                    <img src="https://i.ibb.co/GnY4VPW/btn-shop.jpg" width="161" alt="btn-shop">
+                </a>
+            </column>
+        </row>
+        <row style="margin-bottom: 44px;">
+            <column>
+                <img src="https://i.ibb.co/ynR5Z6T/bt-banner.jpg" style="height: 241px; margin-bottom: 15px;" width="100%" alt="bt-banner">
+                <p style="margin: 0 0 3px; padding: 0 7px; line-height: 1,384615384615385;">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</p>
+                <a href="#" style="color: #D1D1D1; text-decoration: underline; font-size: 13px; padding: 0 7px;">Read more</a>
+            </column>
+        </row>
+    </container>
+    <div class="footer">
+        <div class="container">
+            <row>
+                <column class="footer-content">
+                    <a href="#">Terms</a>
+                    |
+                    <a href="#">Privacy</a>
+                    |
+                    <a href="#">Unsubscribe</a>
+                </column>
+            </row>
+        </div>
+    </div>
+    
+  </body>
+</heml>
